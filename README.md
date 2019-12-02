@@ -52,6 +52,7 @@ To watch our project in actions, please visit the following website:
 https://youtu.be/bBBM0nPipvE
 
 Our code os posted on GitHub at: 
+https://github.com/Atithi01/Calculator_a20/blob/master/Sci_Cal_YA
 
 
 
