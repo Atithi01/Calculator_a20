@@ -260,11 +260,4 @@ cal.config(menu=menubar)
  
 cal.mainloop()
  
-#Sources:
-#https://www.youtube.com/watch?v=jE-SpRI3K5g&feature=youtu.be
-#https://www.youtube.com/watch?v=yQSEXcf6s2I
-#https://www.youtube.com/watch?v=BSfbjrqIw20
-#https://docs.python.org/3.8/library/index.html
-#https://www.youtube.com/watch?v=XhCfsuMyhXo
-#https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
-#https://www.youtube.com/watch?v=glN87rNH0L8
+
