@@ -28,21 +28,30 @@ Week 1 - Before our next tutorial, we will have a detailed plan written out for 
 Week 2-  A fully functioning calculator, with the very minimal scientific functions incorporated in it. 
 
 What will you have done before you leave your tutorial next week?
-week 1 - Before we leave the tutorial next week, we will have our complicated functions like square roots, squares, and other trig functions (sin, cos, tan), included in it. 
+Week 1 - Before we leave the tutorial next week, we will have our complicated functions like square roots, squares, and other trig functions (sin, cos, tan), included in it. 
 week 2 - Before we leave the tutorial next week, we will add the other complicated functions other than sin, cos, tan, and get those working, and or try to incorporate something so it can produce graphs  
-Week 2-  A fully functioning calculator, with the very minimal scientific functions incorporated in it. 
 
-What is your backup plan if things don’t work out as planned?
-Week 1 - If things don't work out as planned, even after getting all the help we can. We will stick tone down the project to something we can do and know can manage. I.e. our backup project is to create a game of hang man or rock paper scissors. 
-Week 2- if the graphs don't work out, we will try incorporating other sin functions, and if we can't than we will try incorporating anything else the TAs (you) might recommend. 
-Week 2-  A fully functioning calculator, with the very minimal scientific functions incorporated in it. 
 
 Weekly Reports
 --------------
 Week 1: Worked on completing the math functions and operations, but upon discussion with Dax, concluded that the idea was good but not creative and challenging enough, and as he had mentioned earlier started to play around with GUI, Tkinter. Learned to do the very basics using Tkinter - ie. create a window, window label, and general labels
 
-WEEK 2: Progressed far more than previously anticipated. With the help of Tkinter and python libraries, along with youtube videos, learned to make buttons, and defining functions as well as storing the inputs and computing outputs. So far have gotten the basic math operators working, and are working to incorporate the other math operations that we imported from the math library - the more scientific functions (cos, sin, root, etc.;). We have gotten the buttons labeled for these functions, but they are yet to be run through the parameters and work the way they are supposed to. 
- 
-Week 3: We were able to get the scientific function buttons to work. We did this by using the math library in python; we used the in-built math functions: sin, cos, sqrt, in order to get the functions to work properly. Furthermore, we created a menubar learning from a Youtube video. This menubar was an additional effect that we wanted to add, and was simple to understand. This menu consisted of the options: Standard calculator, Scientific calculator, and Exit. 
+WEEK 2: Progressed far more than previously anticipated. With the help of Tkinter and python libraries, along with youtube videos, learned to make buttons, and defining functions as well as storing the inputs and computing outputs. So far have gotten the basic math operators working, and are working to incorporate the other math operations that we imported from the math library - the more scientific functions (cos, sin, root, etc.;). We have gotten the buttons labeled for these functions, but they are yet to be run through the parameters and work the way they are supposed to. We were able to get the scientific function buttons to work. We did this by using the math library in python; we used the in-built math functions: sin, cos, sqrt, in order to get the functions to work properly. Furthermore, we created a menubar learning from a Youtube video. This menubar was an additional effect that we wanted to add, and was simple to understand. This menu consisted of the options: Standard calculator, Scientific calculator, and Exit. 
+
+References:
+WE took inspiriation from the following websites, to put the code together for a working scientific calculator. None of the codes were copied.  
+#https://www.youtube.com/watch?v=jE-SpRI3K5g&feature=youtu.be
+#https://www.youtube.com/watch?v=yQSEXcf6s2I
+#https://www.youtube.com/watch?v=BSfbjrqIw20
+#https://docs.python.org/3.8/library/index.html
+#https://www.youtube.com/watch?v=XhCfsuMyhXo
+#https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
+#https://www.youtube.com/watch?v=glN87rNH0L8
+
+To watch our project in actions, please visit the following website: 
+https://youtu.be/bBBM0nPipvE
+
+Our code os posted on GitHub at: 
+
 
 
